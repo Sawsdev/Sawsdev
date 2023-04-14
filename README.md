@@ -48,6 +48,12 @@ I like to play Indie metroidvanias 🎮 and 👨‍🍳 cook some food.
 |sapamy|Shuts down apache and mysql local server|
 |gplo2|(git pull origin <branch>) get changes from repo for a given branch|
 |sail|(./vendor/bin/sail) uses laravel sail from a local project|
+  
+---
+## You can find me here 📮
+ * [Linkedin](https://www.linkedin.com/in/sergio-salazar-williams-dev/)
+ * [Github](https://github.com/Sawsdev/)
+ * [FreeCodeCamp](https://www.freecodecamp.org/Serge345)
 <!--
 **Sawsdev/Sawsdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
